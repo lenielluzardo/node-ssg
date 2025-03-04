@@ -1,0 +1,22 @@
+{
+  "name": "node-ssg",
+  "version": "1.0.0",
+  "description": "My awesome SSG with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-git-repo"
+  },
+  "author": "your-name",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "handlebars": "^4.7.8",
+    "marked": "^15.0.7",
+    "marked-custom-heading-id": "^2.0.11",
+    "minimist": "^1.2.8"
+  }
+}
